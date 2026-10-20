@@ -1,0 +1,4 @@
+*.pdf
+book/
+local/
+.DS_Store
